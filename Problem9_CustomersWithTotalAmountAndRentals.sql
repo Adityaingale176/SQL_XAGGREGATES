@@ -1,0 +1,2 @@
+-- Write a query that returns the customer_id, the total spent amount (rename this column as total_amount), and the number of rentals (rename this column as total_rentals) of the customers that paid more than $100 in total and made less than 25 rentals.
+-- Write Query Here
